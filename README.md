@@ -7,4 +7,4 @@ It is simple HTML5 file. Instructions are below
 3. Update the content w.r.t your program( Python, IoT, Cyber Security etc)
 4. Review the changes and save the file. Run it locally to see how the report looks
 5. If you are satisified, then upload to your GIT repository
-6. Share to DLithe team to obtain the certificate.
+6. Download the report as PDF and share to DLithe team to obtain the certificate.
